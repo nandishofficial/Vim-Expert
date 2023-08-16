@@ -1,5 +1,5 @@
 # Vim-Expert
-Notes for VimTutor that will make you Vim Expert ;)
+Notes for VimTutor that will help make you Vim Expert ;)
 
 
 Note: You can best leverage this guide alongside opening the "vimtutor" :)
